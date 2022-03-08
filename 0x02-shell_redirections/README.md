@@ -1,1 +1,1 @@
-file7- A script thats creates a file containing a text ending by a new line.
+A script that duplicates the last line of the file iacta
